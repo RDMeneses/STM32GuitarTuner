@@ -1,0 +1,7 @@
+../Core/Src/guitar_tuner.c:45:6:get_freq_bins	3
+../Core/Src/guitar_tuner.c:66:5:freq_to_index	1
+../Core/Src/guitar_tuner.c:113:6:get_magnitudes	2
+../Core/Src/guitar_tuner.c:128:7:get_max_frequency_component	3
+../Core/Src/guitar_tuner.c:153:6:filter_frequencies	3
+../Core/Src/guitar_tuner.c:173:7:estimate_frequency	2
+../Core/Src/guitar_tuner.c:197:6:tuning_instruction	2

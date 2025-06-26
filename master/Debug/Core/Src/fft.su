@@ -1,0 +1,2 @@
+../Core/Src/fft.c:23:6:fft	64	static
+../Core/Src/fft.c:61:6:ifft	64	static
